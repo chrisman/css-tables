@@ -2,4 +2,4 @@
 
 RPS table
 
-![rockpaperbears.png]
+![](rockpaperbears.png)
