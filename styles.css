@@ -1,0 +1,40 @@
+table {
+  width: 500px;
+  margin: 0 auto;
+  font-family: sans-serif, arial;
+}
+
+caption {
+  font-size: xx-large;
+  margin: 0.25em;
+  color: rgb(109, 54, 142);
+}
+
+table, th, td {
+  border: solid 3px black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+td {
+  text-align: center;
+}
+
+th {
+  font-weight: bolder;
+}
+tr td:first-child {
+  text-align: left;
+  font-weight: bolder;
+}
+
+.win {
+  background-color: rgb(37, 173, 88);
+}
+.lose {
+  background-color: rgb(249, 105, 61);
+}
+.tie {
+  background-color: rgb(241, 236, 107);
+}
