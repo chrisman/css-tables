@@ -5,9 +5,9 @@ table {
 }
 
 caption {
-  font-size: xx-large;
+  font-size: x-large;
   margin: 0.25em;
-  color: rgb(109, 54, 142);
+  color: orange;
 }
 
 table, th, td {
